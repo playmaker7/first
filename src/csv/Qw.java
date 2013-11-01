@@ -8,7 +8,7 @@ import com.csvreader.CsvWriter;
 public class Qw {
 	public static void p() throws FileNotFoundException{
 		System.out.println("wwwwwwwwww");
-		CsvReader r=new CsvReader("ggg");
+		System.out.println("wwwwwwwwww2222");
 	}
 
 }
